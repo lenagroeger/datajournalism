@@ -1,0 +1,64 @@
+Intro to Data & Coding
+
+**** What is data journalism? ****
+Data stories are about trends and exceptions. A story about rising inequality across the United States or how gay marriage is expanding across America is a data story, it tells us about a trend using statistics and data analysis. But there are also interesting stories in the exceptions. The one school that saddles its students with the most amount of debt, the one doctor that charges way more for the same procedure. These are all data stories.
+
+Now, take note: Data journalism is not merely throwing up a lot of data online and saying, here you go, here's some data, hope you find something interesting! It's  about telling a story with that data – that's the "journalism" in data journalism! And so often, that means you're using data to answer a question. So say we asked this question:
+
+1. How much is my arm worth??
+
+Well, turns out there is data to answer that question.
+
+Workers Comp
+
+
+2. Is my doctor taking money from drug companies?
+
+Dollars for Docs
+
+
+3. Will I get sick (or worse) on my cruise vacation?
+
+Cruises
+
+Now, some reporters use to data to produce long form written stories. Some use them to produce radio stories. Sometimes, like in all the examples I just showed you, we're using data to tell your story. Your limb, your doctor, your cruise ship. The stories can take many different shapes, but they are all using some underlying data.
+
+
+So that's the big "what" of data journalism. But now, the "why"!
+
+**** Why do data journalism? ****
+Data can help you answer questions that regular reporting can't do (or it would take a million years).
+
+- Workers Comp - have to collect it yourself
+- Dollars for Docs - sometimes from the government, just reformatting, can be a lotttt of data
+- Cruises - Sometimes you really have to work for it, scraping (before/after, here is the website the data was from, so shitty!)
+
+Data can come from lots of different place:
+- Public/Official Sources
+- FOIA
+- Random Places on the Internet
+
+How do I get this data?
+- From the Internet!
+- Do-It-Yourself Data: How to use a little (or no) code to get anything you want.
+- Web Scraping Tutorial
+
+So, if I can do this, then why should I even bother with coding?
+
+- Speed: Coding can help you do things a million times faster than you could by hand.
+- Access: A few lines of code can get you (almost!) whatever you want
+- Tools: Google Fusion Tables, CartoDB, R, bar charts, timelines, you have so many options to make whatever you could possibly imagine
+
+
+OK so, I have some data... what do I do with it?
+- Spreadsheets Tutorial
+
+
+
+http://fivethirtyeight.com/features/uber-is-serving-new-yorks-outer-boroughs-more-than-taxis-are/
+http://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?_r=0#Florida
+http://www.nytimes.com/interactive/2013/06/24/us/affirmative-action-bans.html
+http://www.nytimes.com/interactive/2013/02/20/us/hispanics-californias-next-majority.html
+http://www.nytimes.com/interactive/2015/03/04/us/gay-marriage-state-by-state.html
+http://www.nytimes.com/2014/08/20/upshot/americas-racial-divide-charted.html
+http://projects.propublica.org/nursing-homes/ - Find new stories
