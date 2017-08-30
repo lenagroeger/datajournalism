@@ -36,6 +36,12 @@ a:hover {
   color:#cecece;
 }
 
+a:hover img {
+  -moz-box-shadow:     0 0 10px #fff;
+   -webkit-box-shadow:  0 0 10px #fff;
+   box-shadow:          0 0 10px #fff;
+}
+
 
 
 img {
@@ -75,6 +81,10 @@ p.source {
 p.quote {
   text-align: left;
   max-width: 850px;
+}
+
+.slides .list {
+  text-align: left;
 }
 
 .state-background {
