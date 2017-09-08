@@ -198,6 +198,15 @@ section > div p b {
   color:#CC4B2B
 }
 
+.code {
+  font-family: Menlo, sans-serif;
+  font-size: 40px
+}
+
+.code.small {
+  font-size: 20px
+}
+
 @media screen and (max-width: 480px) {
 
   img {
